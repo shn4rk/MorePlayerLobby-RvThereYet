@@ -30,9 +30,11 @@ The mod should only be installed by the player hosting the session. Other player
    - After the first run, open (or create) the file "Game.ini" with this content in the path Yourusername\AppData\Local\Ride\Saved\Config\Windows :
      ```
      [/script/engine.gamesession]
-     MaxPlayers=8
-     
+     MaxPlayers=8  
      ```
+     **Important Note:**
+     The Game.ini it may be removed when you restart your computer, so make sure it is present when you want to play.
+     
 6. **Run the game**
    - Start the game and start a lobby, invite from Steam not from the game.
 
