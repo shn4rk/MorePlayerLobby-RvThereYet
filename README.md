@@ -1,5 +1,8 @@
 ## STEP-BY-STEP INSTALLATION GUIDE
 
+**Important Note:**  
+The mod should only be installed by the player hosting the session. Other players joining the session do not need to install the mod.
+
 1. **Prerequisites**
    - You must own the game version 1.0.14337.
    - Windows OS (as required by the game).
