@@ -17,7 +17,6 @@ The mod should only be installed by the player hosting the session. Other player
 
 2. **Download**
    - Download the latest Release of UE4SS + Mod package from this git
-   - Confirm you have the game installed.
 
 3. **Install UE4SS + Mod**
    - Extract `UE4SS.rar`.
