@@ -3,6 +3,13 @@
 **Important Note:**  
 The mod should only be installed by the player hosting the session. Other players joining the session do not need to install the mod.
 
+## Compatibility
+
+- **Tested on version 1.0.14337.
+- If you're using a different version, the mod may work, but I cannot guarantee functionality.
+
+---
+
 1. **Prerequisites**
    - You must own the game version 1.0.14337.
    - Windows OS (as required by the game).
@@ -32,13 +39,6 @@ The mod should only be installed by the player hosting the session. Other player
 
 7. **Increase Number of Player**
    - For increase the number of player just increase the value inside the Game.ini and inside the config.ini of the Mod on this path ue4ss\Mods\MorePlayerLobby\config.ini (The Max is 24), after that just restart the game.
-
-## Compatibility
-
-- **Tested on version 1.0.14337.
-- If you're using a different version, the mod may work, but I cannot guarantee functionality.
-
----
 
 ## Attribution / Credits
 
