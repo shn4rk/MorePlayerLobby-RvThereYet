@@ -5,7 +5,7 @@ The mod should only be installed by the player hosting the session. Other player
 
 ## Compatibility
 
-- **Tested on version 1.0.14337.
+- Tested on version 1.0.14337.
 - If you're using a different version, the mod may work, but I cannot guarantee functionality.
 
 ---
