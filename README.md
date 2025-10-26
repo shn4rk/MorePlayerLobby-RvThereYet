@@ -1,7 +1,7 @@
 ## STEP-BY-STEP INSTALLATION GUIDE
 
 1. **Prerequisites**
-   - You must own the game version 1.0.14337
+   - You must own the game version 1.0.14337.
    - Windows OS (as required by the game).
    - Ability to copy files into the game folder (admin rights may be required).
 
