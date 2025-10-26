@@ -9,7 +9,7 @@ The mod should only be installed by the player hosting the session. Other player
    - Ability to copy files into the game folder (admin rights may be required).
 
 2. **Download**
-   - Download the latest version of UE4SS + Mod package from this git
+   - Download the latest Release of UE4SS + Mod package from this git
    - Confirm you have the game installed.
 
 3. **Install UE4SS + Mod**
