@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/github/downloads/shn4rk/MorePlayerLobby-RvThereYet/total?color=blue&label=downloads)](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases)
 [![Stars](https://img.shields.io/github/stars/shn4rk/MorePlayerLobby-RvThereYet?style=social)](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/stargazers)
-
+---
 **UE4SS + Mod V1.2 - BETA Pre-release**  
 
 📢 UPDATE NOTE
@@ -17,7 +17,7 @@ Simply set your desired player count in config.ini and start the game — the mo
 We recommend using the latest stable release as this version is still in testing.
 
 If you decide to try it out, we’d really appreciate your feedback!
----
+
 ---
 ## STEP-BY-STEP INSTALLATION GUIDE
 
