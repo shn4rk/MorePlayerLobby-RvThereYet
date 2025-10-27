@@ -47,7 +47,7 @@ The mod should only be installed by the player hosting the session. Other player
      MaxPlayers=8  
      ```
      **Important Note:**
-     The Game.ini may be removed when you restart your computer, so make sure it is present when you want to play.
+     The Game.ini may be removed when you restart the game or the computer, so make sure it is present when you want to play, in the new version of this mod ( 1.2 Beta ) the Game.ini will be automatically created but is in testing right now.
      
 6. **Run the game**
    - Start the game, start a lobby and invite your friends.
