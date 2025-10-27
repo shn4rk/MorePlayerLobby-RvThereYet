@@ -1,5 +1,4 @@
 [![GitHub release](https://img.shields.io/github/v/release/shn4rk/MorePlayerLobby-RvThereYet?label=latest%20release&color=brightgreen)](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases)
-![Status](https://img.shields.io/badge/Status-Beta-orange)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/github/downloads/shn4rk/MorePlayerLobby-RvThereYet/total?color=blue&label=downloads)](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases)
 ![UE4SS Compatible](https://img.shields.io/badge/UE4SS-Compatible-green)
