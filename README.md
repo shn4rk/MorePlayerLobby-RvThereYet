@@ -58,7 +58,10 @@ Please consider supporting the development of UE4SS by visiting the official rep
 **IMPORTANT:**  
 The use of UE4SS is subject to its terms and conditions. The modder does not take responsibility for issues caused by using UE4SS or modifying the game.
 
-UE4SS + Mod V1.2 - BETA Pre-release
+---
+
+**UE4SS + Mod V1.2 - BETA Pre-release**  
+
 📢 UPDATE NOTE
 
 New version:
@@ -68,4 +71,4 @@ Simply set your desired player count in config.ini and start the game — the mo
 We recommend using the latest stable release as this version is still in testing.
 
 If you decide to try it out, we’d really appreciate your feedback!
-
+---
