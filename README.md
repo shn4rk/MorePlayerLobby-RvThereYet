@@ -12,7 +12,7 @@ We recommend using the latest stable release as this version is still in testing
 
 If you decide to try it out, we’d really appreciate your feedback!
 ---
-
+---
 ## STEP-BY-STEP INSTALLATION GUIDE
 
 **Important Note:**  
