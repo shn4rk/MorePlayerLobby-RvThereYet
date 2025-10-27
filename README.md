@@ -1,5 +1,4 @@
 # MorePlayerLobby (Rv There Yet)
-
 [![GitHub release](https://img.shields.io/github/v/release/shn4rk/MorePlayerLobby-RvThereYet?label=latest%20release&color=brightgreen)](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/github/downloads/shn4rk/MorePlayerLobby-RvThereYet/total?color=blue&label=downloads)](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases)
