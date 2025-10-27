@@ -1,3 +1,5 @@
+# MorePlayerLobby (Rv There Yet)
+
 [![GitHub release](https://img.shields.io/github/v/release/shn4rk/MorePlayerLobby-RvThereYet?label=latest%20release&color=brightgreen)](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/github/downloads/shn4rk/MorePlayerLobby-RvThereYet/total?color=blue&label=downloads)](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases)
@@ -6,78 +8,91 @@
 [![Stars](https://img.shields.io/github/stars/shn4rk/MorePlayerLobby-RvThereYet?style=social)](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/stargazers)
 
 ---
-**UE4SS + Mod V1.2 - BETA Pre-release**  
 
-📢 UPDATE NOTE
+## 🧩 UE4SS + Mod V1.2 — **BETA Pre-release**
 
-New version: https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases/tag/Beta
+📢 **Update Notes**
 
-This update automatically creates Game.ini.
-Simply set your desired player count in config.ini and start the game — the mod will automatically generate Game.ini with the correct value.
+➡️ [Download the new version here](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases/tag/Beta)
 
-We recommend using the latest stable release as this version is still in testing.
+This update automatically creates the `Game.ini` file.  
+Simply set your desired player count inside `config.ini` and start the game —  
+the mod will automatically generate a proper `Game.ini` with the correct value.
 
-If you decide to try it out, we’d really appreciate your feedback!
+We recommend using the **latest stable release** once it’s available, as this version is still in testing.
 
----
-## STEP-BY-STEP INSTALLATION GUIDE
-
-**Important Note:**  
-The mod should only be installed by the player hosting the session. Other players joining the session do not need to install the mod.
-
-## Compatibility
-
-- Tested on version 1.0.14337.
-- If you're using a different version, the mod may work, but I cannot guarantee functionality.
+If you decide to try it out, **we’d really appreciate your feedback!**
 
 ---
 
-1. **Prerequisites**
-   - You must own the game version 1.0.14337.
-   - Windows OS (as required by the game).
-   - Ability to copy files into the game folder (admin rights may be required).
+## ⚙️ Step-by-Step Installation Guide
 
-2. **Download**
-   - Download the latest Release of UE4SS + Mod package from this git
+> 💡 **Note:** Only the host needs to install the mod.  
+> Players joining the session **don’t need** to install anything.
 
-3. **Install UE4SS + Mod**
-   - Extract `UE4SS.rar`.
-   - Copy all the file from the RAR into "GameDirectory\Ride\Binaries\Win64\" directory.
+### 1. Prerequisites
+- Game version **1.0.14337**
+- Windows OS
 
-4. **Run the game once**
-   - Start the game one time and then close it. This ensures the game generates the user config.
+### 2. Download
+- Get the latest release of **UE4SS + Mod package** from this repository.
 
-5. **Create / edit Game.ini**
-   - After the first run, open (or create) the file "Game.ini" with this content in the path Yourusername\AppData\Local\Ride\Saved\Config\Windows :
-     ```
-     [/script/engine.gamesession]
-     MaxPlayers=8  
-     ```
-     **Important Note:**
-     The Game.ini may be removed when you restart the game or the computer, so make sure it is present when you want to play, in the new version of this mod ( 1.2 Beta ) the Game.ini will be automatically created but is in testing right now.
-     
-6. **Run the game**
-   - Start the game, start a lobby and invite your friends.
+### 3. Install UE4SS + Mod
+- Extract `UE4SS.rar`.
+- Copy all files from the archive into your  
+  `GameDirectory\Ride\Binaries\Win64\` folder.
+
+### 4. Run the Game Once
+- Start and then close the game to allow it to generate its config files.
+
+### 5. Create or Edit `Game.ini`
+- After the first run, navigate to:
+ `C:\Users<YourUser>\AppData\Local\Ride\Saved\Config\Windows\`
+
+- Create or edit `Game.ini` with:
+
+```ini
+[/script/engine.gamesession]
+MaxPlayers=8
+```
 
 
-7. **Increase Number of Player**
-   - For increase the number of player just increase the value inside the Game.ini and inside the config.ini of the Mod on this path ue4ss\Mods\MorePlayerLobby\config.ini (The Max is 24), after that just restart the game.
+> ⚠️ The file may be deleted after restarts —  
+> in **v1.2 Beta** the mod automatically recreates it based on your `config.ini`.
 
-## Attribution / Credits
+### 6. Launch the Game
+- Start the game, host a lobby, and invite your friends.
 
-This mod uses **UE4SS** (Unreal Engine 4 Script/Hook loader) for its functionality.
-
-**UE4SS** is distributed under the **MIT License**.
-
-- **Copyright (c) UE4SS contributors**
-- **Repository:** [https://github.com/UE4SS/UE4SS](https://github.com/UE4SS/UE4SS)
-
-This mod would not be possible without the incredible work of the UE4SS community.
-Please consider supporting the development of UE4SS by visiting the official repository and contributing to the project.
+### 7. Increase Player Limit
+To raise the number of players:
+- Edit the value inside both:
+  - `Game.ini`
+  - `ue4ss\Mods\MorePlayerLobby\config.ini`
+- Maximum value: **24**
+- Restart the game after editing.
 
 ---
 
-**IMPORTANT:**  
-The use of UE4SS is subject to its terms and conditions. The modder does not take responsibility for issues caused by using UE4SS or modifying the game.
+## 🧠 Compatibility
+- Tested on version **1.0.14337**
+- May work on newer versions, but not guaranteed.
+
+---
+
+## 🏗️ Attribution / Credits
+
+This mod uses **[UE4SS](https://github.com/UE4SS/UE4SS)** — Unreal Engine 4 Script & Hook Loader.
+
+UE4SS is distributed under the **MIT License**.  
+**Copyright (c) UE4SS contributors**
+
+This mod wouldn’t be possible without the incredible work of the UE4SS community.  
+Please consider supporting their development through the official repository.
+
+---
+
+## ⚠️ Disclaimer
+Use of UE4SS is subject to its own license and terms.  
+The author of this mod is **not responsible** for issues caused by modifying the game.
 
 ---
