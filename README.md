@@ -9,19 +9,15 @@
 
 ---
 
-## 🧩 UE4SS + Mod V1.2 — **BETA Pre-release**
+## 🧩 UE4SS + Mod V1.2
 
 📢 **Update Notes**
 
-➡️ [Download the new BETA version here](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases/tag/Beta)
+➡️ [Download the new version here](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases/tag/Beta)
 
 This update automatically creates the `Game.ini` file.  
 Simply set your desired player count inside `config.ini` and start the game —  
 the mod will automatically generate a proper `Game.ini` with the correct value.
-
-We recommend using the **latest stable release** once it’s available, as this version is still in testing.
-
-If you decide to try it out, **we’d really appreciate your feedback!**
 
 ---
 
@@ -42,34 +38,15 @@ If you decide to try it out, **we’d really appreciate your feedback!**
 - Copy all files from the archive into your  
   `GameDirectory\Ride\Binaries\Win64\` folder.
 
-### 4. Run the Game Once
-- Start and then close the game to allow it to generate its config files.
-
-### 5. Create or Edit `Game.ini`
-- After the first run, navigate to:
- `C:\Users<YourUser>\AppData\Local\Ride\Saved\Config\Windows\`
-
-- Create or edit `Game.ini` with:
-
-```ini
-[/script/engine.gamesession]
-MaxPlayers=8
-```
-
-
-> ⚠️ The file may be deleted after restarts —  
-> in **v1.2 Beta** the mod automatically recreates it based on your `config.ini`.
-
-### 6. Launch the Game
-- Start the game, host a lobby, and invite your friends.
-
-### 7. Increase Player Limit
+### 4. Increase Player Limit
 To raise the number of players:
-- Edit the value inside both:
-  - `Game.ini`
+- Edit the value inside:
   - `ue4ss\Mods\MorePlayerLobby\config.ini`
 - Maximum value: **24**
 - Restart the game after editing.
+
+### 5. Launch the Game
+- Start the game, host a lobby, and invite your friends.
 
 ---
 
