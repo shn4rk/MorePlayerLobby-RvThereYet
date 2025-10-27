@@ -15,9 +15,7 @@
 
 ➡️ [Download the new version here](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases/tag/1.2)
 
-This update automatically creates the `Game.ini` file.  
-Simply set your desired player count inside `config.ini` and start the game —  
-the mod will automatically generate a proper `Game.ini` with the correct value.
+This Mod automatically creates the `Game.ini` file and different hook preventing large (20+ player) session to crash.
 
 ---
 
