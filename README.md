@@ -50,7 +50,7 @@ The mod should only be installed by the player hosting the session. Other player
      The Game.ini may be removed when you restart your computer, so make sure it is present when you want to play.
      
 6. **Run the game**
-   - Start the game and start a lobby and invite your friends.
+   - Start the game, start a lobby and invite your friends.
 
 
 7. **Increase Number of Player**
