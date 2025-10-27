@@ -13,7 +13,7 @@
 
 📢 **Update Notes**
 
-➡️ [Download the new version here](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases/tag/Beta)
+➡️ [Download the new BETA version here](https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases/tag/Beta)
 
 This update automatically creates the `Game.ini` file.  
 Simply set your desired player count inside `config.ini` and start the game —  
