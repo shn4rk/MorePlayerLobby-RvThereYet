@@ -64,7 +64,7 @@ The use of UE4SS is subject to its terms and conditions. The modder does not tak
 
 📢 UPDATE NOTE
 
-New version:
+New version: https://github.com/shn4rk/MorePlayerLobby-RvThereYet/releases/tag/Beta
 This update automatically creates Game.ini.
 Simply set your desired player count in config.ini and start the game — the mod will automatically generate Game.ini with the correct value.
 
